@@ -5,7 +5,7 @@
         #region Var
         private const string DebugWSBasePoint = "wss://stream.binancefuture.com";
 
-        private const string MainWSBasePoint = "wss://fstream.binance.com";
+        private const string MainWSBasePoint = "wss://fstream3.binance.com";
 
         public readonly string WSUrl;
 
